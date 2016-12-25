@@ -1,0 +1,10 @@
+.DS_Store
+
+*.o
+*.d
+*.hex
+*.elf
+
+dspsdr.xcodeproj/
+tools/
+teensy3/
